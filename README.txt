@@ -24,3 +24,9 @@ JoanIsaac Biel, ICSI
 Contact for questions, feedback, etc:
 Michael.Feld@dfki.de
 fractor@icsi.berkeley.edu
+
+NOTE
+----
+
+This is just a mirror of the program since its main site (http://www.icsi.berkeley.edu/ftp/pub/speech/software/praatlib-0.3.tar.gz) is unavailable for some reason...
+This was retrieved from ftp://ftp.icsi.berkeley.edu/pub/speech/software/praatlib-0.3/ on May of 2024
